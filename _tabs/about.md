@@ -3,6 +3,17 @@
 icon: fas fa-info-circle
 order: 4
 ---
+[//]: # (Lägg till lite info om dig själv, länk till din sida/blog, det du känner för.)
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+We are a team of students from the 2023 class of "IT security testing" program at the swedish school ITHS.
+
+<a href="https://ctftime.org/team/279990" target="_blank">Team page on CTFtime.org</a><br>
+# Members
+### TuxPad
+Cybersec student interested in offensive security, playing CTFs, HTB and studying for certs.<br>
+<a href="https://tuxpad.github.io" target="_blank">TuxPad blog</a><br>
+
+<a href="https://app.hackthebox.com/profile/528265" target="_blank" style="margin:0 27px 0"><img src="https://www.hackthebox.eu/badge/image/528265" alt="HackTheBox profile"></a><br>
+<a href="https://tryhackme.com/p/TuxPad" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/TuxPad.png" alt="TryHackMe profile"></a><br>
+
+### Nästa skriver här
